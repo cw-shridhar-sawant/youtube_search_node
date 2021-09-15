@@ -1,0 +1,21 @@
+{
+  "name": "command_line_ytseach",
+  "version": "1.0.0",
+  "description": "A command line youtube tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "api"
+  ],
+  "author": "shri",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "request": "^2.81.0",
+    "youtube-sr": "^4.1.7",
+    "ytpl": "^2.2.3"
+  }
+}
